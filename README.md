@@ -12,13 +12,12 @@ MongoDB, PostgreSQL
 Python, Java, JavaScript, TypeScript, C++, C### 
 I'm currently open to new opportunities and would love to contribute my skills to exciting projects. If you're looking for a developer with expertise in the technologies mentioned above, I would be thrilled to discuss potential collaborations.
 ## Contact Me
-Feel free to reach out to me through
 ## Email: 
 deborahberhanu644@gmail.com
 ## phone:
 +251977320146.
 ## Linkedin:
 https://www.linkedin.com/in/dibora-emiru-b98621225/
-Let's connect and create something great together!
+#### Let's connect and create something great together!
 
 

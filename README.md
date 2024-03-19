@@ -1,5 +1,4 @@
-### Hi there 👋
-Dibora Berhanu Emiru
+
 ## Hello there! 👋 I'm Dibora Berhanu Emiru.
 A passionate software developer. I specialize in web development and I'm proficient in a range of technologies. I love building innovative and user-friendly applications that make a positive impact.
 ## Here are some of the key technologies I work with:- 

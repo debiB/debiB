@@ -6,8 +6,6 @@
 #### Frontend: React, Next.js, Tailwind CSS, HTML, CSS, Bootstrap 
 #### Databases: MongoDB, PostgreSQL
 #### Languages: Python, Java, JavaScript, TypeScript, C++, C# 
-# Portfolio
-#### https://portfolio-website-rust-beta-22.vercel.app/
 #### I'm currently open to new opportunities and would love to contribute my skills to exciting projects. If you're looking for a developer with expertise in the technologies mentioned above, I would be thrilled to discuss potential collaborations.
 # Contact Me
 #### Email: deborahberhanu644@gmail.com
